@@ -1,0 +1,46 @@
+.container_form_page{
+    margin-top: 19.1rem;
+}
+.content_checkboxs{
+    display: flex;
+
+    gap: 4.4rem;
+}
+.content_area{
+    margin: 3.4rem 0;
+}
+.content_checkboxs label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+
+    margin-right: 1.4rem;
+
+    color: #FFFFFF;
+}
+.content_checkboxs input{
+    width: 20px;
+    height: 22px;
+    
+    border: 2px solid #CCCCCC;
+}
+.content_texts{
+    display: flex;
+    flex-direction: column;
+}
+.button_login{
+    width: 630px;
+    height: 56px;
+    left: 405px;
+    top: 1465px;
+
+    margin-top: 8.2rem;
+    margin-bottom: 26.8rem;
+
+    background: rgba(12, 112, 242, 0.9);
+    box-shadow: 0px 6px 4px rgba(12, 112, 242, 0.25);
+    border-radius: 10px;
+}

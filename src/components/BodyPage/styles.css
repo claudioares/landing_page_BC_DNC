@@ -1,0 +1,38 @@
+.body_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 9.9rem 21.0rem 0 21.0rem;
+    background-image: url("../../assets/back_gound_body.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #BABABA;
+    color: #FFFFFF;
+}
+.body_page h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 97px;
+
+    margin-bottom: 2.6rem;
+
+}
+.container_span{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.container_span p{
+    width: 1018px;
+}
+.bg_black{
+    background-color: black;
+}

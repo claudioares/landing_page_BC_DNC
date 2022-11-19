@@ -1,0 +1,32 @@
+.text{
+    width: 630px;
+    height: 56px;
+    left: 403px;
+    top: 1327px;
+
+    padding-left: 1.7rem;
+    
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+
+}
+.text::placeholder{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(57, 57, 57, 0.5);
+}
+.label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+
+    margin-bottom: 0.8rem;
+
+    color: #FFFFFF;
+}
